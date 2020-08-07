@@ -2,10 +2,10 @@
 
 Apaixonada por solucionar problemas e desenvolver soluções usando programação e tecnologia.
 
-🎓 Bacharel em Tecnologias da Informação e Comunicação pela Universidade Federal de Santa Catarina - UFSC
-🔭 Estou trabalhando na Inovar Sistemas
-🌱 Atualmente venho estudando sobre desenvolvimento WEB
-💜 Programação, tecnologias e seriados
+<p>🎓 Bacharel em Tecnologias da Informação e Comunicação pela Universidade Federal de Santa Catarina - UFSC </p>
+<p>🔭 Estou trabalhando na Inovar Sistemas </p>
+<p>🌱 Atualmente venho estudando sobre desenvolvimento WEB </p>
+<p>💜 Programação, tecnologias e seriados </p>
 
 
 
