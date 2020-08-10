@@ -7,5 +7,5 @@ Apaixonada por solucionar problemas e desenvolver soluções usando programaçã
 <br/>🌱 Atualmente venho estudando sobre desenvolvimento WEB, HTML, CSS, Javascript, Node.js e curtindo os conteúdos da **Rocketseat** </p>
 <br/>💜 Programação, tecnologias e seriados </p>
 <br/>
-<br/>[![Linkedin Badge](https://img.shields.io/badge/-RaissaBoeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissa-boeng-da-silva-a380a1157/)|
-[![Gmail Badge](https://img.shields.io/badge/-raissa.boeng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raissa.boeng@gmail.com)]
+<br/>![Linkedin Badge](https://img.shields.io/badge/-RaissaBoeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissa-boeng-da-silva-a380a1157/)
+![Gmail Badge](https://img.shields.io/badge/-raissa.boeng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raissa.boeng@gmail.com)
