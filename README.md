@@ -6,7 +6,7 @@ Apaixonada por solucionar problemas e desenvolver soluções usando programaçã
 
 <p>🎓 Bacharel em Tecnologias da Informação e Comunicação pela Universidade Federal de Santa Catarina - UFSC </p>
 <p>🔭 Estou trabalhando na Inovar Sistemas </p>
-<p>🌱 Atualmente venho estudando sobre desenvolvimento WEB, HTML, CSS, Javascript, Node.js e curtindo os conteúdos da **Rocketseat** </p>
+<p>🌱 Atualmente venho estudando sobre desenvolvimento WEB, HTML, CSS, Javascript, Node.js e curtindo os conteúdos da @Rocketseat </p>
 <p>💜 Programação, tecnologias e seriados </p>
 
 
