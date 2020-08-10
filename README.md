@@ -2,12 +2,13 @@
 
 Apaixonada por solucionar problemas e desenvolver soluções usando programação e tecnologia.
 
-<p>🎓 Bacharel em Tecnologias da Informação e Comunicação pela Universidade Federal de Santa Catarina - UFSC </p>
-<p>🔭 Estou trabalhando na Inovar Sistemas </p>
-<p>🌱 Atualmente venho estudando sobre desenvolvimento WEB </p>
-<p>💜 Programação, tecnologias e seriados </p>
-
-
+<br/>🎓 Bacharel em Tecnologias da Informação e Comunicação pela Universidade Federal de Santa Catarina - UFSC </p>
+<br/>🔭 Estou trabalhando na Inovar Sistemas </p>
+<br/>🌱 Atualmente venho estudando sobre desenvolvimento WEB, HTML, CSS, Javascript, Node.js e curtindo os conteúdos da **Rocketseat** </p>
+<br/>💜 Programação, tecnologias e seriados </p>
+<br/>
+<br/>https://img.shields.io/badge/-RaissaBoeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissa-boeng-da-silva-a380a1157/
+<br/>https://img.shields.io/badge/-raissa.boeng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raissa.boeng@gmail.com
 
 
 
