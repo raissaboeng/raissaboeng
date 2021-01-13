@@ -1,7 +1,7 @@
 <h1 align=center> Prazer :wave: , Raissa Boeng</h1>
 
 <p>🎓 Bacharel em Tecnologias da Informação e Comunicação pela Universidade Federal de Santa Catarina - UFSC </p>
-<p>🌱 Atualmente venho estudando sobre desenvolvimento WEB, HTML, CSS, Javascript, Node.js e curtindo os conteúdos da @Rocketseat </p>
+<p>🌱 Atualmente venho estudando sobre desenvolvimento WEB, HTML, CSS, Javascript, Node.js, ReactJS e curtindo os conteúdos da @Rocketseat e FreeCodeCamp</p>
 <p>💜 Programação, tecnologias e seriados </p>
 
 
