@@ -4,10 +4,10 @@
 
 ```javascript
 const raissaboeng = {
-  searching: "First Job like front-end jr",
+  work: "Front-end jr in SLTO systems",
   degree: "Graduate in TIC - UFSC"
-  code: [HTML, CSS, Javascript, React, Git, styled components],
-  studying: [Typescript, React],
+  code: [HTML, CSS, Javascript, React, Vue.JS, Git, styled components, Typescript],
+  studying: [Vue.Js],
   toStudy: [React Native, Docker, NodeJS, Bootstrap],
   challenge: "#100DaysOfCode challenge focused on front-end",
   contentsOf: [Rocketseat, TreinaWeb, FreeCodeCamp, Udemy, DIO]
