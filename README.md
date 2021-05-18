@@ -4,7 +4,7 @@
 
 ```javascript
 const raissaboeng = {
-  work: "Front-end jr in SLTO systems",
+  work: "Front-end developer",
   degree: "Graduate in TIC - UFSC"
   code: [HTML, CSS, Javascript, React, Vue.JS, Git, styled components, Typescript],
   studying: [Vue.Js],
