@@ -6,10 +6,7 @@
 const raissaboeng = {
   work: "Front-end developer",
   degree: "Graduate in TIC - UFSC"
-  code: [HTML, CSS, Javascript, React, Vue.JS, Git, styled components, Typescript],
-  studying: [Vue.Js],
-  toStudy: [React Native, Docker, NodeJS, Bootstrap],
-  challenge: "#100DaysOfCode challenge focused on front-end",
+  code: [HTML, CSS, Javascript, React, React Native, NodeJS, Vue.JS, Git, styled components, Typescript, Cypress ],
   contentsOf: [Rocketseat, TreinaWeb, FreeCodeCamp, Udemy, DIO]
 }
 ```
