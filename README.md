@@ -7,7 +7,7 @@ const raissaboeng = {
   work: "Front-end developer",
   degree: "Graduate in TIC - UFSC"
   code: [HTML, CSS, Javascript, React, React Native, NodeJS, Vue.JS, Git, styled components, Typescript, Cypress ],
-  contentsOf: [Rocketseat, TreinaWeb, FreeCodeCamp, Udemy, DIO]
+  contentsOf: [Rocketseat, TreinaWeb, FreeCodeCamp, Udemy, DIO, Origamid]
 }
 ```
 <!--
